@@ -1,0 +1,2 @@
+main.cpp:
+generate a data.txt based on user-defined function , and provide to drawData.py to visualize the function.
