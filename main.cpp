@@ -1,3 +1,8 @@
+/*
+ * Author:	Ericlin
+ * Email:	463222898@qq.com
+ * Date:	Fri Aug 26 21:42:28 CST 2016
+ */
 #include<iostream>
 #include<iomanip>
 #include<fstream>
@@ -149,6 +154,8 @@ class UniDirectionRand{
 };
 
 class MPB{
+	//Moving Peaks Problem
+	//refer to paper:Memory Enhanced Evolutionary Algorithms for Changing Optimization Problems, Jurgen Branke
 #define NumPeak 5
 #define NumDim 5
 	public:
